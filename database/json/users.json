@@ -1,0 +1,29 @@
+[
+    {
+        "username": "random_username1",
+        "first_name": "random_first_name1",
+        "last_name": "random_last_name1",
+        "email": "random1@example.com",
+        "password_hash": "hashed_password1",
+        "create_at": " now()",
+        "update_at": " now()"
+    },
+    {
+        "username": "random_username2",
+        "first_name": "random_first_name2",
+        "last_name": "random_last_name2",
+        "email": "random2@example.com",
+        "password_hash": "hashed_password2",
+        "create_at": " now()",
+        "update_at": " now()"
+    },
+    {
+        "username": "random_username3",
+        "first_name": "random_first_name3",
+        "last_name": "random_last_name3",
+        "email": "random3@example.com",
+        "password_hash": "hashed_password3",
+        "create_at": " now()",
+        "update_at": " now()"
+    }
+]
